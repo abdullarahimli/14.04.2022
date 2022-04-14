@@ -1,0 +1,192 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.base-div
+{
+    background-color: #f6f7f8;
+}
+.lists li
+{
+    font-size: 14px;
+    margin-right: 20px;
+}
+ul li:hover
+{
+    border-bottom: 1px solid #9797aa;
+}
+.lists li a
+{
+    color: #9797aa;
+}
+
+.karyera:hover
+{
+    border-bottom: none;
+}
+.karyera a
+{
+    border: 1px solid #0056c1;
+    color: #0056c1 !important;
+    padding: 6px 10px;
+    border-radius: 50px;
+    font-weight: 500;
+    background-color: transparent;
+    
+}
+.karyera a:hover
+{
+    color: #fff !important;
+    background-color: #0056c1;
+    
+}
+.axtaris{
+    color: #9797aa;
+}
+.axtaris:hover{
+    color: #9797aa;
+}
+select
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #9797aa;
+}
+.phone a
+{
+    color: black;
+}
+.right-side ul li:hover
+{
+    border-bottom: none;
+}
+.search i
+{
+    color: #9797aa;
+}
+
+
+.ferdi
+{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* The start of the Header-Up */
+
+#header-two
+{
+    border-bottom: 1px solid #9797aa;
+}
+.alist
+{
+    margin-left: 20px;
+}
+.alist a
+{
+    text-decoration: none;
+    color: #9797aa;
+    margin-right: 10px;
+}
+.alist a:first-child
+{
+    color: black;
+}
+.right-side-2
+{
+    text-align: end;
+}
+.right-side-2 a
+{
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* The end of the Header-Up */
+
+#search
+{
+    display: none;
+}
+.search-btn input
+{
+    border: none;
+    outline: none;
+}
+.search-btn span
+{
+    text-align: center;
+    cursor: pointer;
+}
+.active
+{
+    display: block !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* The start of the header two */
+.navbar-icon i
+{
+    font-size: 40px;
+    color: #9797aa;
+    display: none;
+}
+
+.side-top ul li
+{
+    list-style: none;
+}
+.side-top ul li a
+{
+    text-decoration: none;
+    color: #9797aa;
+}
+
+.side-bottom ul li
+{
+    list-style: none;
+}
+.side-bottom ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+.side-navbar
+{
+    display: none;
+}
+
+/* The end of the header two */
+

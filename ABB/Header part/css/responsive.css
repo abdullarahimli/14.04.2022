@@ -1,0 +1,59 @@
+@media (max-width: 572px)
+{
+    .responsive
+    {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .left-side
+    {
+        display: none;
+    }
+    .ferdi
+    {
+        display: block;
+    }
+
+
+
+    .navbar-icon a i
+    {
+        display: block;
+        text-decoration: none;
+        list-style: none;
+    }
+    
+    .alist
+    {
+        display: none;
+    }
+    .side-navbar
+    {
+        display: none !important;
+        position: absolute;
+        top: 140px;
+        right: 5px;
+    }
+    .right-side-2
+    {
+        display: none;
+    }
+    .show
+    {
+        display: block !important;
+        width: 50%;
+    }
+    .side-top 
+    {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .ada
+    {
+        overflow: scroll;
+    }
+
+
+}
